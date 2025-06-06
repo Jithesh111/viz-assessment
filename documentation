@@ -1,0 +1,12 @@
+Employee Performance Analysis Dashboard - Project Documentation
+Project Overview
+This project presents a comprehensive analysis of employee performance data using Microsoft Power BI, providing insights into performance metrics, budget allocations, and comparative analysis across departments and teams.
+1. Approach and Rationale
+Dashboard Design Strategy
+The dashboard was designed to provide HR managers and department heads with clear, actionable insights through:
+
+Comparative Analysis: Performance metrics are shown relative to department, team, and organization averages rather than absolute values
+Visual Storytelling: Charts and graphs tell a clear story about employee performance trends
+Interactive Elements: Filters and slicers allow users to explore data by department, team, or individual employee
+Multi-Level Insights: Information flows from organizational overview to individual employee details
+
